@@ -1,0 +1,40 @@
+.bg-light {
+  background-color: #262727 !important; }
+
+*, ::after, ::before {
+  box-sizing: border-box;
+  border-radius: 0px;
+  color: #ec26a6;
+  font-family: "Sweet Sans Pro";
+  font-weight: bold;
+  font-kerning: auto; }
+
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: white;
+  border-radius: .3rem; }
+
+.label {
+  display: inline-block;
+  margin-bottom: 1px; }
+
+.card-body {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-height: 1px;
+  padding: 1rem; }
+
+button, input, optgroup, select, textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 10px; }
+
+p {
+  padding-top: 10px;
+  padding-bottom: 4px; }
+
+.card-body {
+  padding-top: 20px; }
